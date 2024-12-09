@@ -1,5 +1,5 @@
 # README for DCE MRI Pytorch Pipeline
-This repository contains the codebase for the master's thesis project: "Direct Reconstruction of Tracer Kinetic (TK) Parameter Maps from DCE MRI K-space Data Using PyTorch." The project explores a novel approach to streamline the estimation of TK parameter maps, leveraging automatic differentiation for modeling Dynamic Contrast-Enhanced (DCE) MRI data. The framework is applied to both brain tumor data (based on a study from USC) and breast lesion data (using the Digital Reference Object toolkit).
+This repository contains the codebase for the master's thesis project: "Direct Reconstruction of Tracer Kinetic (TK) Parameter Maps from DCE MRI K-space Data Using PyTorch." The project explores a novel approach to streamline the estimation of TK parameter maps, leveraging automatic differentiation for modeling Dynamic Contrast-Enhanced (DCE) MRI data. The framework is applied to both brain tumor data (based on a study from USC) and breast lesion data (using the Digital Reference Object toolkit). Link to final thesis document: https://drive.google.com/file/d/15g_fV1uU43iG5IAdodhX5UDAFm5wHBK8/view?usp=sharing
 
 # Repository overview 
 ## Purpose
